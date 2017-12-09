@@ -1,6 +1,15 @@
-# POJ
-Algorithm practice using Peking University Online Judge(POJ).
+# algorithms
 
-### Notice
+Algorithms practice and share with others.
 
-If there is a _ in front of a problem ID, that means the problem ID has changed yet.
+### basic algorithms
+
+Some basic algorithms including search, sort, etc.
+
+### leetcode
+
+Problems on Leetcode platform.
+
+### poj
+
+Problems on Peking online judge platform.
