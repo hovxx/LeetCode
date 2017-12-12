@@ -2,6 +2,8 @@
 
 #### Leetcode problems
 
+1.[Two Sum](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/two-sum.cpp)
+
 26.[Remove Duplicates from Sorted Array](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/remove-duplicates-from-sorted-array.cpp)
 
 38.[Count and Say](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/count-and-say.cpp)
@@ -21,3 +23,5 @@
 145.[Binary Tree Postorder Traversal](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/binary-tree-postorder-traversal.cpp)
 
 150.[Evaluate Reverse Polish Notation](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/evaluate-reverse-polish-notation.cpp)
+
+461.[Hamming Distance](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/hamming-distance.cpp)
