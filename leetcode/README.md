@@ -11,4 +11,4 @@
 * [Permutations](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/permutations.cpp)
 * [Remove Duplicates from Sorted Array](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/remove-duplicates-from-sorted-array.cpp)
 * [Count and Say](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/count-and-say.cpp)
-* [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
+* [Evaluate Reverse Polish Notation]((https://github.com/Goffic/algorithms/blob/master/leetcode/problems/evaluate-reverse-polish-notation.cpp)
