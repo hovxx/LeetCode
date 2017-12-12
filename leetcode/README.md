@@ -2,22 +2,22 @@
 
 #### Leetcode problems
 
-26. [Remove Duplicates from Sorted Array](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/remove-duplicates-from-sorted-array.cpp)
+26.[Remove Duplicates from Sorted Array](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/remove-duplicates-from-sorted-array.cpp)
 
-38. [Count and Say](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/count-and-say.cpp)
+38.[Count and Say](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/count-and-say.cpp)
 
-46. [Permutations](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/permutations.cpp)
+46.[Permutations](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/permutations.cpp)
 
-58. [Length of Last Word](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/length-of-last-word.cpp)
+58.[Length of Last Word](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/length-of-last-word.cpp)
 
-94. [Binary Tree Inorder Traversal](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/binary-tree-inorder-traversal.cpp)
+94.[Binary Tree Inorder Traversal](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/binary-tree-inorder-traversal.cpp)
 
-110. [Balanced Binary Tree](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/balanced-binary-tree.cpp)
+110.[Balanced Binary Tree](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/balanced-binary-tree.cpp)
 
-111. [Minimum Depth of Binary Tree](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/minimum-depth-of-binary-tree.cpp)
+111.[Minimum Depth of Binary Tree](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/minimum-depth-of-binary-tree.cpp)
 
-144. [Binary Tree Preorder Traversal](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/binary-tree-preorder-traversal.cpp)
+144.[Binary Tree Preorder Traversal](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/binary-tree-preorder-traversal.cpp)
 
-145. [Binary Tree Postorder Traversal](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/binary-tree-postorder-traversal.cpp)
+145.[Binary Tree Postorder Traversal](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/binary-tree-postorder-traversal.cpp)
 
-150. [Evaluate Reverse Polish Notation](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/evaluate-reverse-polish-notation.cpp)
+150.[Evaluate Reverse Polish Notation](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/evaluate-reverse-polish-notation.cpp)
