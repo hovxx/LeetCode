@@ -18,6 +18,8 @@
 
 111.[Minimum Depth of Binary Tree](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/minimum-depth-of-binary-tree.cpp)
 
+136.[Single Number](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/single-number.cpp)
+
 144.[Binary Tree Preorder Traversal](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/binary-tree-preorder-traversal.cpp)
 
 145.[Binary Tree Postorder Traversal](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/binary-tree-postorder-traversal.cpp)
