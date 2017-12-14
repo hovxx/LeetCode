@@ -28,4 +28,6 @@
 
 150.[Evaluate Reverse Polish Notation](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/evaluate-reverse-polish-notation.cpp)
 
+226.[Invert Binary Tree](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/invert-binary-tree.cpp)
+
 461.[Hamming Distance](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/hamming-distance.cpp)
