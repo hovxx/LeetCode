@@ -36,4 +36,4 @@
 
 461.[Hamming Distance](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/hamming-distance.cpp)
 
-538.[Convert BST to Greater Tree](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/hamming-distance.cpp)
+538.[Convert BST to Greater Tree](https://github.com/Goffic/algorithms/blob/master/leetcode/problems/convert-bst-to-greater-tree.cpp)
