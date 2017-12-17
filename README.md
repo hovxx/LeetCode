@@ -28,6 +28,8 @@
 
 150.[Evaluate Reverse Polish Notation](https://github.com/Goffic/LeetCode/blob/master/problems/evaluate-reverse-polish-notation.cpp)
 
+169.[Majority Element](https://github.com/Goffic/LeetCode/blob/master/problems/majority-element.cpp)
+
 226.[Invert Binary Tree](https://github.com/Goffic/LeetCode/blob/master/problems/invert-binary-tree.cpp)
 
 283.[Move Zeros](https://github.com/Goffic/LeetCode/blob/master/problems/move-zeroes.cpp)
