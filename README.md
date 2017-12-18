@@ -30,6 +30,8 @@
 
 169.[Majority Element](https://github.com/Goffic/LeetCode/blob/master/problems/majority-element.cpp)
 
+206.[Reverse Linked List](https://github.com/Goffic/LeetCode/blob/master/problems/reverse-linked-list.cpp)
+
 226.[Invert Binary Tree](https://github.com/Goffic/LeetCode/blob/master/problems/invert-binary-tree.cpp)
 
 283.[Move Zeros](https://github.com/Goffic/LeetCode/blob/master/problems/move-zeroes.cpp)
