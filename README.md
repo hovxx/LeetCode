@@ -20,6 +20,8 @@
 
 111.[Minimum Depth of Binary Tree](https://github.com/Goffic/LeetCode/blob/master/problems/minimum-depth-of-binary-tree.cpp)
 
+121.[Best Time to Buy and Sell Stock](https://github.com/Goffic/LeetCode/blob/master/problems/best-time-to-buy-and-sell-stock.cpp)
+
 136.[Single Number](https://github.com/Goffic/LeetCode/blob/master/problems/single-number.cpp)
 
 144.[Binary Tree Preorder Traversal](https://github.com/Goffic/LeetCode/blob/master/problems/binary-tree-preorder-traversal.cpp)
@@ -41,3 +43,5 @@
 461.[Hamming Distance](https://github.com/Goffic/LeetCode/blob/master/problems/hamming-distance.cpp)
 
 538.[Convert BST to Greater Tree](https://github.com/Goffic/LeetCode/blob/master/problems/convert-bst-to-greater-tree.cpp)
+
+543.[Diameter of Binary Tree](https://github.com/Goffic/LeetCode/blob/master/problems/diameter-of-binary-tree.cpp)
