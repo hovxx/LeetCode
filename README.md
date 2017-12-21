@@ -12,6 +12,8 @@
 
 58.[Length of Last Word](https://github.com/Goffic/LeetCode/blob/master/problems/length-of-last-word.cpp)
 
+70.[Climbing Stairs](https://github.com/Goffic/LeetCode/blob/master/problems/climbing-stairs.cpp)
+
 94.[Binary Tree Inorder Traversal](https://github.com/Goffic/LeetCode/blob/master/problems/binary-tree-inorder-traversal.cpp)
 
 104.[Maximum Depth of Binary Tree](https://github.com/Goffic/LeetCode/blob/master/problems/maximum-depth-of-binary-tree.cpp)
