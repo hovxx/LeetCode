@@ -14,6 +14,8 @@
 
 94.[Binary Tree Inorder Traversal](https://github.com/Goffic/LeetCode/blob/master/problems/binary-tree-inorder-traversal.cpp)
 
+101.[Symmetric Tree](https://github.com/Goffic/LeetCode/blob/master/problems/symmetric-tree.cpp)
+
 104.[Maximum Depth of Binary Tree](https://github.com/Goffic/LeetCode/blob/master/problems/maximum-depth-of-binary-tree.cpp)
 
 110.[Balanced Binary Tree](https://github.com/Goffic/LeetCode/blob/master/problems/balanced-binary-tree.cpp)
