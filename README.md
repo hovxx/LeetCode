@@ -2,7 +2,7 @@
 
 1.[Two Sum](https://github.com/Goffic/LeetCode/blob/master/problems/two-sum.cpp)
 
-21.[Merge Two Sorted List](https://github.com/Goffic/LeetCode/blob/master/problems/merge-two-sorted-list.cpp)
+21.[Merge Two Sorted List](https://github.com/Goffic/LeetCode/blob/master/problems/merge-two-sorted-lists.cpp)
 
 26.[Remove Duplicates from Sorted Array](https://github.com/Goffic/LeetCode/blob/master/problems/remove-duplicates-from-sorted-array.cpp)
 
