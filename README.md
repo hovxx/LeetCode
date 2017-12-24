@@ -8,6 +8,8 @@
 
 46.[Permutations](https://github.com/Goffic/LeetCode/blob/master/problems/permutations.cpp)
 
+53.[Maximum Subarray](https://github.com/Goffic/LeetCode/blob/master/problems/maximum-subarray.cpp)
+
 58.[Length of Last Word](https://github.com/Goffic/LeetCode/blob/master/problems/length-of-last-word.cpp)
 
 70.[Climbing Stairs](https://github.com/Goffic/LeetCode/blob/master/problems/climbing-stairs.cpp)
