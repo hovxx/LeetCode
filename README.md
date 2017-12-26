@@ -30,6 +30,8 @@
 
 136.[Single Number](https://github.com/Goffic/LeetCode/blob/master/problems/single-number.cpp)
 
+141.[Linked List Cycle](https://github.com/Goffic/LeetCode/blob/master/problems/linked-list-cycle.cpp)
+
 144.[Binary Tree Preorder Traversal](https://github.com/Goffic/LeetCode/blob/master/problems/binary-tree-preorder-traversal.cpp)
 
 145.[Binary Tree Postorder Traversal](https://github.com/Goffic/LeetCode/blob/master/problems/binary-tree-postorder-traversal.cpp)
@@ -37,6 +39,8 @@
 150.[Evaluate Reverse Polish Notation](https://github.com/Goffic/LeetCode/blob/master/problems/evaluate-reverse-polish-notation.cpp)
 
 169.[Majority Element](https://github.com/Goffic/LeetCode/blob/master/problems/majority-element.cpp)
+
+198.[House Robber](https://github.com/Goffic/LeetCode/blob/master/problems/house-robber.cpp)
 
 206.[Reverse Linked List](https://github.com/Goffic/LeetCode/blob/master/problems/reverse-linked-list.cpp)
 
