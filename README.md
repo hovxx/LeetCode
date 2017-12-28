@@ -2,6 +2,8 @@
 
 1.[Two Sum](https://github.com/Goffic/LeetCode/blob/master/problems/two-sum.cpp)
 
+20.[Valid Parentheses](https://github.com/Goffic/LeetCode/blob/master/problems/valid-parentheses.cpp)
+
 21.[Merge Two Sorted Lists](https://github.com/Goffic/LeetCode/blob/master/problems/merge-two-sorted-lists.cpp)
 
 26.[Remove Duplicates from Sorted Array](https://github.com/Goffic/LeetCode/blob/master/problems/remove-duplicates-from-sorted-array.cpp)
