@@ -42,6 +42,8 @@
 
 150.[Evaluate Reverse Polish Notation](https://github.com/Goffic/LeetCode/blob/master/problems/evaluate-reverse-polish-notation.cpp)
 
+160.[Intersection of Two Linked Lists](https://github.com/Goffic/LeetCode/blob/master/problems/intersection-of-two-linked-list.cpp)
+
 169.[Majority Element](https://github.com/Goffic/LeetCode/blob/master/problems/majority-element.cpp)
 
 198.[House Robber](https://github.com/Goffic/LeetCode/blob/master/problems/house-robber.cpp)
@@ -65,3 +67,5 @@
 543.[Diameter of Binary Tree](https://github.com/Goffic/LeetCode/blob/master/problems/diameter-of-binary-tree.cpp)
 
 572.[Subtree of Another Tree](https://github.com/Goffic/LeetCode/blob/master/problems/subtree-of-another-tree.cpp)
+
+581.[Shortest Unsorted Continuous Subarray](https://github.com/Goffic/LeetCode/blob/master/problems/shortest-unsorted-continuous-subarray.cpp)
