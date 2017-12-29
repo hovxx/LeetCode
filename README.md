@@ -42,7 +42,7 @@
 
 150.[Evaluate Reverse Polish Notation](https://github.com/Goffic/LeetCode/blob/master/problems/evaluate-reverse-polish-notation.cpp)
 
-160.[Intersection of Two Linked Lists](https://github.com/Goffic/LeetCode/blob/master/problems/intersection-of-two-linked-list.cpp)
+160.[Intersection of Two Linked Lists](https://github.com/Goffic/LeetCode/blob/master/problems/intersection-of-two-linked-lists.cpp)
 
 169.[Majority Element](https://github.com/Goffic/LeetCode/blob/master/problems/majority-element.cpp)
 
