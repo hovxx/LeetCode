@@ -18,6 +18,8 @@
 
 70.[Climbing Stairs](https://github.com/Goffic/LeetCode/blob/master/problems/climbing-stairs.cpp)
 
+88.[Merge Sorted Array](https://github.com/Goffic/LeetCode/blob/master/problems/merge-sorted-array.cpp)
+
 94.[Binary Tree Inorder Traversal](https://github.com/Goffic/LeetCode/blob/master/problems/binary-tree-inorder-traversal.cpp)
 
 100.[Same Tree](https://github.com/Goffic/LeetCode/blob/master/problems/same-tree.cpp)
