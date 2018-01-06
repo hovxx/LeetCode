@@ -54,7 +54,7 @@
 
 198.[House Robber](https://github.com/Goffic/LeetCode/blob/master/problems/house-robber.cpp)
 
-203.[Remove Linked List Element](https://github.com/Goffic/LeetCode/blob/master/problems/remove-linked-list-element.cpp)
+203.[Remove Linked List Element](https://github.com/Goffic/LeetCode/blob/master/problems/remove-linked-list-elements.cpp)
 
 206.[Reverse Linked List](https://github.com/Goffic/LeetCode/blob/master/problems/reverse-linked-list.cpp)
 
