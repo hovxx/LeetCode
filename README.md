@@ -62,6 +62,8 @@
 
 283.[Move Zeros](https://github.com/Goffic/LeetCode/blob/master/problems/move-zeroes.cpp)
 
+412.[Fizz Buzz](https://github.com/Goffic/LeetCode/blob/master/problems/fizz-buzz.cpp)
+
 437.[Path Sum III](https://github.com/Goffic/LeetCode/blob/master/problems/path-sum-iii.cpp)
 
 438.[Find All Anagrams in a String](https://github.com/Goffic/LeetCode/blob/master/problems/find-all-anagrams-in-a-string.cpp)
